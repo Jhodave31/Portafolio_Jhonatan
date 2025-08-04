@@ -1,0 +1,1 @@
+// Aquí puedes agregar funcionalidad con JavaScript en el futuro.
