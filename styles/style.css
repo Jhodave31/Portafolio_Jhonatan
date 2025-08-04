@@ -75,3 +75,19 @@ footer {
     bottom: 0;
     width: 100%;
 }
+
+/* Estilo para la sección "Sobre mí" */
+.perfil {
+    display: flex;
+    align-items: center;
+    gap: 1.5rem; /* Espacio entre la imagen y el texto */
+}
+
+.imagen-perfil {
+    width: 150px; /* Tamaño de la imagen */
+    height: 150px;
+    border-radius: 50%; /* Hace que la imagen sea circular */
+    object-fit: cover; /* Ajusta la imagen dentro del círculo */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Añade sombra para un efecto bonito */
+    border: 3px solid #4CAF50; /* Borde alrededor de la imagen */
+}
